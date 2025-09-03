@@ -15,4 +15,5 @@ vlm_episodic_predprey.py demonstrates episodic-like memory by introducing two pr
     Else, the memory will be queried with when and where information.
 
 For both simulations, results will be saved in NPY files and figures will be saved in PNG files.
+
 -------------
